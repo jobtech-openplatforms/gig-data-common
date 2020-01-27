@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Security.Cryptography.X509Certificates;
-
-namespace AF.Gig.Common.Models
+﻿namespace Jobtech.OpenPlatforms.GigDataCommon.Library.Models
 {
     public class PlatformDataUserTestResult
     {

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace AF.Gig.Common.Models
+namespace Jobtech.OpenPlatforms.GigDataCommon.Library.Models
 {
     public class TimePeriod
     {

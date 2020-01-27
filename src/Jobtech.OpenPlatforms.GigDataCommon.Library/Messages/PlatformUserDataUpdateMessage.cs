@@ -1,7 +1,7 @@
 ﻿using System;
-using AF.Gig.Common.Models;
+using Jobtech.OpenPlatforms.GigDataCommon.Library.Models;
 
-namespace AF.Gig.Common.Messages
+namespace Jobtech.OpenPlatforms.GigDataCommon.Library.Messages
 {
     public class PlatformUserUpdateDataMessage
     {

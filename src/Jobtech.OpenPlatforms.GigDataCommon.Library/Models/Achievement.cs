@@ -2,7 +2,7 @@
 using Newtonsoft.Json;
 using Newtonsoft.Json.Converters;
 
-namespace AF.Gig.Common.Models
+namespace Jobtech.OpenPlatforms.GigDataCommon.Library.Models
 {
     public class Achievement
     {
