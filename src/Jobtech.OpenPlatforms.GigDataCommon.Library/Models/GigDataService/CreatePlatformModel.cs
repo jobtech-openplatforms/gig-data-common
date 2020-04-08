@@ -13,5 +13,8 @@ namespace Jobtech.OpenPlatforms.GigDataCommon.Library.Models.GigDataService
         public decimal MinRating { get; set; }
         public decimal MaxRating { get; set; }
         public decimal RatingSuccessLimit { get; set; }
+        public string Description { get; set; }
+        public string LogoUrl { get; set; }
+        public string WebsiteUrl { get; set; }
     }
 }
