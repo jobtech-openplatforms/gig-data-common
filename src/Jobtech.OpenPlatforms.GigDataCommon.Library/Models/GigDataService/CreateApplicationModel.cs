@@ -4,8 +4,7 @@
 
     {
         public string Name { get; set; }
-        public string NotificationEndpointUrl { get; set; }
-        public string EmailVerificationNotificationEndpointUrl { get; set; }
+        public string DataUpdateCallbackUrl { get; set; }
         public string AuthCallbackUrl { get; set; }
     }
 }
